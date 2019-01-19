@@ -1,3 +1,4 @@
-web: ng serve
-web: npm run dev
-web: npm start
+frontend: ng serve
+backend:npm run dev
+
+
